@@ -1,0 +1,23 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-arm64
+# created-by: conda 25.5.1
+@EXPLICIT
+https://conda.anaconda.org/conda-forge/osx-arm64/bzip2-1.0.8-h4e30115_10.conda#8ec22f0ba25cbfc2e64d70cf29459eccd7ffdf6436f6a6ff15bbfef799f7d4f6
+https://conda.anaconda.org/conda-forge/noarch/ca-certificates-2026.7.22-hbd8a1cb_0.conda#0a0544cf95f64394fe4959286f5c71f5444ad58feb0602e53becb27448d24da6
+https://conda.anaconda.org/conda-forge/osx-arm64/libcxx-23.1.2-h55c6f16_0.conda#087a610bacee7901d259ef72c6f060d795ab26831bd7541ba75ced786a5a63f9
+https://conda.anaconda.org/conda-forge/osx-arm64/libexpat-2.8.5-h6111c0a_0.conda#50aa761b83fc7a116ca88fe0cb4cefce5abababb10a926bf8afbafd5c298d102
+https://conda.anaconda.org/conda-forge/osx-arm64/libffi-3.7.0-h47dc5ef_1.conda#2783389a7b9dda04c62cc54c6bbeb03dd3cef24b3fc642715d02a3fa19464a9a
+https://conda.anaconda.org/conda-forge/osx-arm64/liblzma-5.8.3-h8088a28_1.conda#23d0630046a3e8b164d8f80f2b74ed2605af2e7050ab9913018056402fae4311
+https://conda.anaconda.org/conda-forge/osx-arm64/libmpdec-4.0.0-h84a0fba_2.conda#04cc136c5a956a73aa14e0a160b5822b0b29714e67b299fa1b1fd16dbcba5366
+https://conda.anaconda.org/conda-forge/osx-arm64/libzlib-1.3.2-h8088a28_3.conda#a18fa5d5bac452401459f966cf0d872224e8080c4ff93c77e168d43ab42ef9d7
+https://conda.anaconda.org/conda-forge/osx-arm64/ncurses-6.6-he64c551_1.conda#7024a48c8c0d0114ed4ab53c76bf9275d50e91ba7cea367a9aead638d3c29c68
+https://conda.anaconda.org/conda-forge/noarch/python_abi-3.13-9_cp313.conda#9dc0cb6a20ebc7e9bcd8c6868f2bec083c114b0ba20b7118405c036533d5c522
+https://conda.anaconda.org/conda-forge/noarch/tzdata-2026c-h151e31d_0.conda#b928c30ddcb0e3f544c6eade8352737e6e610e263276b90232db6a578ef899d8
+https://conda.anaconda.org/conda-forge/osx-arm64/libpython-3.13.15-hb350d79_103_cp313.conda#37ab69e6bf35ff7321dae4473e34a7fa51eaa038f6f9bddef8a5c0eab8321534
+https://conda.anaconda.org/conda-forge/osx-arm64/libsqlite-3.53.4-h34a968b_102.conda#0343b4f1c1a9f2feb0496bf159d13c5dd894ca750b9016f1282df5a4b82bd80e
+https://conda.anaconda.org/conda-forge/osx-arm64/openssl-3.6.5-h55eecbc_0.conda#44fbc526456571a9fb8fa18157f6f269d4d4bd40eef20183a93b9c9296f94497
+https://conda.anaconda.org/conda-forge/osx-arm64/readline-8.3-h8b90a29_1.conda#d6782b430e6dce4fe8c7ac118cd988d5a193eb4a7f60741edfaede58016b6110
+https://conda.anaconda.org/conda-forge/osx-arm64/tk-8.6.13-hbeba79b_4.conda#857d89087ae7f2c328cf256728affcb7343031a148b4af847334d248a9cf564c
+https://conda.anaconda.org/conda-forge/osx-arm64/python-3.13.15-hb59dee6_103_cp313.conda#a7da2b4f09ca2e5bf0fa8137bd614c6fc222b6ebef55ef09f1559dfbb8265c00
+https://conda.anaconda.org/conda-forge/noarch/pip-26.2.1-pyh145f28c_0.conda#0f7021cfb3ff454c91a5e28e1f5060906a52c6d1cde3f879a7d03ac33c28b1c3
